@@ -1,2 +1,2 @@
 # csc466cloud
-laxmi lama
+Laxmi Lama-Palladino
